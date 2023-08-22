@@ -1,0 +1,19 @@
+@import 'abstract/variables.scss';
+
+.btn-buy{
+    color: $white-color;
+    background-color: $addToCart-button-background;
+}
+
+.product-detail-name{
+    background-color: $product-header-background;
+}
+
+.product-detail-price{
+    font-size: $product-price-font;
+}
+
+.gallery-slider-single-image.is-contain .gallery-slider-image{
+    border: $product-img-border;
+}
+

@@ -1,0 +1,8 @@
+framework:
+  exceptions:
+    Swag\PayPal\Checkout\PUI\Exception\PaymentInstructionsNotReadyException:
+      log_level: notice
+    Swag\PayPal\OrdersApi\Administration\Exception\OrderNotFoundException:
+      log_level: notice
+    Swag\PayPal\PaymentsApi\Administration\Exception\PaymentNotFoundException:
+      log_level: notice

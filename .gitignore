@@ -5,7 +5,6 @@
 .env.local
 .env.local.php
 .env.*.local
-custom/*
 !custom/plugins/.gitkeep
 !custom/static-plugins/
 /public/fonts/*
